@@ -1,5 +1,6 @@
 {
   "name": "sample-react-app",
+  "homepage": "https://jesusaparedes.github.io/react-deployment/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
